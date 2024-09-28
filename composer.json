@@ -1,6 +1,6 @@
 {
-    "name": "tomorrow-ideas/plaid-sdk-php",
-    "description": "PHP implementation of Plaid's API as an SDK.",
+    "name": "steve-rhoades/plaid-sdk-php",
+    "description": "A simple PHP implementation of Plaid's API as an SDK as on TomorrowIdeas/plaid-sdk-php but with some improvements.",
     "keywords": [
         "plaid",
         "sdk",
